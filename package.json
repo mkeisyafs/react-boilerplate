@@ -2,6 +2,7 @@
   "name": "react-boilerplate",
   "private": true,
   "version": "0.0.0",
+  "description": "⚡ React 19 + TypeScript + Vite + Tailwind CSS boilerplate with an automated page and route generator CLI",
   "type": "module",
   "scripts": {
     "dev": "vite",
